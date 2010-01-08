@@ -1,0 +1,15 @@
+JQUERY KONAMI CODE
+Chris Korhonen <chris@sourcebottle.net>
+http://sourcebottle.net
+http://twitter.com/ckorhonen
+
+
+A simple plugin for binding functions to Konami code events,
+
+USAGE:
+$.konami(function);
+
+Calling without a function clears any bound events.
+
+License:
+http://www.opensource.org/licenses/mit-license.php
